@@ -1,9 +1,10 @@
-# ⚓ OpenAnchor | 开放锚
-<p align="center">
+<div align="center">
+
+# ⚓  OpenAnchor | 开放锚
   <strong>「Open Crowdsourcing Governance · Anchor AI Truth · Block Poisoning Pollution」</strong>
   <br>
   <strong>「开放众包共治 · 锚定AI真相 · 阻断投毒污染」</strong>
-</p>
+</div
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
